@@ -595,8 +595,8 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/jneplokh">
-            <img src="https://avatars.githubusercontent.com/u/46184597?v=4" width="80;" alt="jneplokh"/>
+        <a href="https://github.com/jacobneplokh">
+            <img src="https://avatars.githubusercontent.com/u/46184597?v=4" width="80;" alt="jacobneplokh"/>
             <br />
             <sub><b>Jacob Neplokh</b></sub>
         </a>
