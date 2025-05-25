@@ -265,10 +265,10 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/lukecarr">
-            <img src="https://avatars.githubusercontent.com/u/24438483?v=4" width="80;" alt="lukecarr"/>
+        <a href="https://github.com/101lols">
+            <img src="https://avatars.githubusercontent.com/u/29000894?v=4" width="80;" alt="101lols"/>
             <br />
-            <sub><b>Luke Carr</b></sub>
+            <sub><b>101lols</b></sub>
         </a>
     </td>
     <td align="center">
@@ -459,13 +459,6 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/101lols">
-            <img src="https://avatars.githubusercontent.com/u/29000894?v=4" width="80;" alt="101lols"/>
-            <br />
-            <sub><b>101lols</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/boushley">
             <img src="https://avatars.githubusercontent.com/u/101239?v=4" width="80;" alt="boushley"/>
             <br />
@@ -499,15 +492,15 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Ben Thul</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/BBlackwo">
             <img src="https://avatars.githubusercontent.com/u/7598058?v=4" width="80;" alt="BBlackwo"/>
             <br />
             <sub><b>Benjamin B</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BrunoBernardino">
             <img src="https://avatars.githubusercontent.com/u/1239616?v=4" width="80;" alt="BrunoBernardino"/>
@@ -542,15 +535,15 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Daniel G. Taylor</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/dim1119">
             <img src="https://avatars.githubusercontent.com/u/10008788?v=4" width="80;" alt="dim1119"/>
             <br />
             <sub><b>Dimitris Lazarakis</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/VoDmAl">
             <img src="https://avatars.githubusercontent.com/u/248879?v=4" width="80;" alt="VoDmAl"/>
@@ -566,13 +559,6 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/mrfelpa">
-            <img src="https://avatars.githubusercontent.com/u/65371336?v=4" width="80;" alt="mrfelpa"/>
-            <br />
-            <sub><b>Mrfelpa</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/fkohrt">
             <img src="https://avatars.githubusercontent.com/u/12914806?v=4" width="80;" alt="fkohrt"/>
             <br />
@@ -585,8 +571,7 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Freddy</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hw4n">
             <img src="https://avatars.githubusercontent.com/u/38372575?v=4" width="80;" alt="hw4n"/>
@@ -600,7 +585,8 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Jacob Neplokh</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/gongjason">
             <img src="https://avatars.githubusercontent.com/u/52545545?v=4" width="80;" alt="gongjason"/>
@@ -628,8 +614,7 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>John Karahalis</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/edelbluth">
             <img src="https://avatars.githubusercontent.com/u/4939388?v=4" width="80;" alt="edelbluth"/>
@@ -643,7 +628,8 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Julien</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/seclution">
             <img src="https://avatars.githubusercontent.com/u/38378574?v=4" width="80;" alt="seclution"/>
@@ -670,6 +656,13 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <img src="https://avatars.githubusercontent.com/u/83498565?v=4" width="80;" alt="leon-costa"/>
             <br />
             <sub><b>Leon Costa</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/lukecarr">
+            <img src="https://avatars.githubusercontent.com/u/24438483?v=4" width="80;" alt="lukecarr"/>
+            <br />
+            <sub><b>Luke Carr</b></sub>
         </a>
     </td></tr>
 </table>
